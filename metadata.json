@@ -1,0 +1,6 @@
+{
+  "name": "ケーブルラック加工計算アプリ",
+  "description": "ケーブルラックのS字加工（内寸・外寸）や子桁（子下駄）の干渉調整・計算ができる電工職人向けツール",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
